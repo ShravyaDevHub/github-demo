@@ -1,3 +1,3 @@
 Hello world
 Bye
-Changed in git
+Changes in git
